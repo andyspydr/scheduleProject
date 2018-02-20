@@ -1,1 +1,1 @@
-# scheduleProject
+Auto-schedule calendar project
